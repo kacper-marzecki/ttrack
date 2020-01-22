@@ -1,0 +1,13 @@
+/_build/
+/cover/
+/deps/
+/doc/
+/.fetch
+/assets/node_modules/
+/priv/static/
+/assets/elm-stuff/
+.elixir_ls/
+erl_crash.dump
+*.ez
+ttrack-*.tar
+npm-debug.log
